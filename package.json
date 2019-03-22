@@ -1,0 +1,14 @@
+{
+  "name": "segunda_semana",
+  "version": "1.0.1",
+  "description": "trabajo de segunda semana nodejs",
+  "main": "historia_usuario_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Beatriz beatrizcarvajal19@hotmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}

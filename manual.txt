@@ -1,0 +1,5 @@
+este me muestra el listado de los curso.
+
+Ingrese el nombre del archivo: historia_usuario_1
+
+para buscar un curso e inscribirme ingrese: historia_usuario_1 inscribir -i= id -n=nombre -c=cedula

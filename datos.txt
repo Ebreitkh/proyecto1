@@ -1,0 +1,5 @@
+El nombre del estudiante beatriz
+con cedula numero 123
+se ha matriculado en el curso: Phyton
+con una duraccion de 40 horas horas 
+el valor del curso es: 30000
